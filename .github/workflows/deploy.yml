@@ -20,7 +20,7 @@ jobs:
           hugo-version: 'latest'
           
       - name: Build
-        run: hugo --minify
+        run: hugo --gc --minify
         
       - name: Deploy to Cloudflare Pages
         uses: cloudflare/pages-action@v1
