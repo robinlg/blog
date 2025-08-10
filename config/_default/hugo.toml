@@ -5,6 +5,8 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://your_domain.com/"
 defaultContentLanguage = "zh-cn"
+# 网站有 CJK 字符（中日韩统一表意文字），设置 hasCJKLanguage = true
+hasCJKLanguage = true
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
