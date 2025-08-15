@@ -5,6 +5,7 @@ categories:
  - 区块链
 tags:
  - 比特币
+ - 区块链
 series:
  - 比特币
 series_order: 5

@@ -5,6 +5,7 @@ categories:
   - 区块链
 tags:
   - 以太坊
+  - 区块链
 series:
   - 以太坊
 series_order: 2
