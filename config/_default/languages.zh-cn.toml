@@ -1,15 +1,15 @@
-disabled = false
+#disabled = false
 languageCode = "zh-cn"
 languageName = "简体中文"
-weight = 4
-title = "Robin"
+#weight = 4
+#title = "Robin"
 
 [params]
   displayName = "简体中文"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  # logo = "img/blowfish_logo_transparent.png"
+  logo = "img/logo.PNG"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,7 +17,7 @@ title = "Robin"
  [params.author]
    name = "Robin"
 #   email = "youremail@example.com"
-   image = "img/blowfish_logo.png"
+   image = "img/image.PNG"
    imageQuality = 96
    headline = "I'm only human"
    bio = "A little bit about you"
