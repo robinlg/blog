@@ -1,0 +1,20 @@
+/* Logo最靠左，无间距 */
+.main-menu {
+    padding-left: 0 !important;
+    /* padding-right: 0 !important; */
+}
+
+img.logo {
+    max-height: 6rem;
+    max-width: 6rem;
+}
+
+.max-w-prose {
+    margin-bottom: 0;
+}
+
+/* 导航栏字体大小调整 */
+.main-menu nav a p {
+    font-size: 1.125rem !important;
+    font-weight: 600 !important;
+}

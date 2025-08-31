@@ -15,7 +15,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
-# mainSections = ["section1", "section2"]
+mainSections = ["blog"]
 # robots = ""
 
 disableImageOptimization = false
@@ -37,7 +37,7 @@ giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [header]
-  layout = "fixed-gradient" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
+  layout = "fixed-fill" # valid options: basic, fixed, fixed-fill, fixed-gradient, fixed-fill-blur
 
 [footer]
   showMenu = true
@@ -49,10 +49,10 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
   #homepageImage = "IMAGE.jpg" # used in: hero, and card
-  showRecent = true
+  showRecent = false
   showRecentItems = 5
-  showMoreLink = false
-  showMoreLinkDest = "/posts/"
+  showMoreLink = true
+  showMoreLinkDest = "/categories/"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = false # only used when layout equals background
@@ -66,7 +66,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showDateUpdated = false
   showAuthor = false
   # showAuthorBottom = false
-  showHero = true
+  showHero = false
   heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = false # only used when heroStyle equals background
@@ -83,7 +83,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false # use showTaxonomies OR showCategoryOnly, not both
+  showTaxonomies = true # use showTaxonomies OR showCategoryOnly, not both
   showCategoryOnly = false # use showTaxonomies OR showCategoryOnly, not both
   showAuthorsBadges = false
   showWordCount = true
@@ -91,17 +91,19 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showZenMode = false
 
 [list]
-  showHero = true
-  heroStyle = "thumbAndBackground" # valid options: basic, big, background, thumbAndBackground
+  showHero = false
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showViews = false
   showLikes = false
   showTableOfContents = true
   showCards = false
   orderByWeight = false
+  # Number of articles per page on blog list (pagination size)
+  blogMaxArticles = 6
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
