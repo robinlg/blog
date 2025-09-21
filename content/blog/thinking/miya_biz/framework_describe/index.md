@@ -3,6 +3,7 @@ title: Miya项目框架介绍及环境安装
 date: 2023-10-15T08:05:22+00:00
 categories:
   - 思考
+summary: 介绍Miya项目使用的腾讯Tars微服务框架，详细说明基于Protocol Buffers的RPC协议配置和Golang开发环境的安装步骤。
 ---
 
 ## <span class="ez-toc-section" id="%E6%A1%86%E6%9E%B6%E4%BB%8B%E7%BB%8D"></span>框架介绍<span class="ez-toc-section-end"></span> {.wp-block-heading}

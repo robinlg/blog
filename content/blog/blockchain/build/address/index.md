@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 5
+summary: 使用Go语言构建区块链系列教程第五部分，详细介绍区块链地址的生成机制，包括公钥、私钥和地址的转换过程。
 ---
 
 ## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span> {#introduction}

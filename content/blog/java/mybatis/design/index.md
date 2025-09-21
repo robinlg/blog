@@ -3,6 +3,7 @@ title: （一）自定义持久层设计思路
 date: 2020-07-05T03:30:07+00:00
 categories:
   - Java
+summary: 详细介绍自定义持久层框架的设计思路，包括配置文件解析、JavaBean容器、SqlSessionFactory工厂模式以及Executor执行器等核心组件设计。
 ---
 笔者开始对Mybaits源码进行分析、学习，并记录下学习的历程，既对自己的成长有帮助，也对有可能看到本文的读者起到帮助。<figure class="wp-block-image">
 

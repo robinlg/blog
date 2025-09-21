@@ -3,6 +3,7 @@ title: 高级树、AVL树和红黑树
 date: 2021-08-21T08:40:39+00:00
 categories:
   - 算法与数据结构
+summary: 详细介绍二叉树、二叉搜索树、AVL树和红黑树的原理和特点，包括四种旋转操作和两种平衡树的优缺点比较。
 ---
 <blockquote class="wp-block-quote">
   <p>

@@ -3,6 +3,7 @@ title: Nginx做正向代理
 date: 2021-02-04T15:24:03+00:00
 categories:
   - Nginx
+summary: 详细介绍如何使用ngx_http_proxy_connect_module模块将Nginx配置为正向代理服务器，支持HTTP CONNECT方法实现代理功能。
 ---
 近日，朋友在公司摸鱼时发现笔记本在使用公司的WI-FI后无法进入B站。于是乎在群里“拍了拍”我。本着科技服务生活的精神，我欣然地接受了这个请求 😀
 

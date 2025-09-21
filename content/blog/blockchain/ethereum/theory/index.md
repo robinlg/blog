@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 2
+summary: 详细介绍以太坊(Ethereum)的技术原理，包括智能合约、虚拟机、共识机制等核心技术架构和工作原理。
 ---
 
 ## <span class="ez-toc-section" id="%E7%AE%80%E4%BB%8B"></span>**简介**<span class="ez-toc-section-end"></span> {#简介}

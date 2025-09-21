@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 4
+summary: 使用Go语言构建区块链系列教程第四部分，详细介绍区块链交易的基本概念、UTXO模型和交易验证机制。
 ---
 
 ## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span> {#introduction}

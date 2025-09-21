@@ -3,6 +3,7 @@ title: Spring IoC基础与源码剖析
 date: 2020-09-05T09:38:18+00:00
 categories:
   - Java
+summary: 深入剖析Spring IoC控制反转机制，介绍Bean的定义方式、BeanFactory接口体系以及源码阅读的方法和技巧。
 ---
 <figure class="wp-block-image"><img decoding="async" src="http://roliu.work/wp-content/uploads/2020/09/IoC基础-1024x449.png" alt="" class="wp-image-624" /></figure> 
 

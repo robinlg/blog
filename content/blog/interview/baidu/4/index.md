@@ -3,6 +3,7 @@ title: 百度社招四面
 date: 2025-01-11T05:47:53+00:00
 categories:
   - 面经
+summary: 百度地图部门总监级别面试，涉及职业规划、技术深度、RPC框架、HTTPS实现、延时队列、MySQL调优等综合技术考察。
 ---
 ### 背景 {.wp-block-heading}
 

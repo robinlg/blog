@@ -4,6 +4,7 @@ date: 2022-05-08T06:17:53+00:00
 featured_image: /wp-content/uploads/2022/05/grpc.png
 categories:
   - Golang
+summary: 深入分析grpc-go的logger包源码，包括glogger结构体、componentData结构体和初始化流程，展示Go语言中duck-typing设计思想的实际应用。
 ---
 从上个月开始梳理grpc-go的源码，希望从中学习到一些来自谷歌“原汁原味”的代码设计及风格。第一个开始分析的包是**encoding**，这个包下的代码行数不多，主要就是如下两个部分
 

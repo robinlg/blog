@@ -3,6 +3,7 @@ title: 百度社招三面
 date: 2025-01-10T09:36:29+00:00
 categories:
   - 面经
+summary: 百度地图部门Leader级别面试，重点考察产品思维、业务理解、技术方案设计，以及推送业务的核心指标和优化策略。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

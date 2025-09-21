@@ -18,3 +18,11 @@ img.logo {
     font-size: 1.125rem !important;
     font-weight: 600 !important;
 }
+
+/* 专门针对logo区域的选择器 */
+.main-menu .flex.items-center a,
+.main-menu .flex.items-center span,
+.main-menu .flex.items-center div {
+    font-size: 1.25rem !important;
+    font-weight: 700 !important;
+}

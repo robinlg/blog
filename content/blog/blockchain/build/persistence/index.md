@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 3
+summary: 使用Go语言构建区块链系列教程第三部分，实现区块链数据的持久化存储和命令行界面，让区块链数据能够保存到本地数据库。
 ---
 
 ## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span> {#introduction}

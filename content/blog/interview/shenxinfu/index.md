@@ -3,6 +3,7 @@ title: 深信服社招一面
 date: 2024-12-17T03:12:25+00:00
 categories:
   - 面经
+summary: 深信服云计算部门Go后端开发面试，涉及微服务架构、Go切片和channel原理、内存泄漏处理以及字符串算法题。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 6
+summary: 深入解析比特币交易的生命周期、数据结构、UTXO机制、交易脚本语言以及P2PKH、P2SH等标准交易类型的技术实现原理。
 ---
 
 ## <span class="ez-toc-section" id="51_%E7%AE%80%E4%BB%8B"></span>5.1 简介<span class="ez-toc-section-end"></span>

@@ -3,6 +3,7 @@ title: 虚拟内存和共享文件
 date: 2023-08-12T07:50:47+00:00
 categories:
   - Linux
+summary: 深入解析虚拟内存的工作原理、内存映射机制、动态内存分配器以及Linux文件共享的实现原理和内核数据结构。
 ---
 
 ## <span class="ez-toc-section" id="%E8%99%9A%E6%8B%9F%E5%86%85%E5%AD%98"></span>虚拟内存<span class="ez-toc-section-end"></span> {.wp-block-heading}

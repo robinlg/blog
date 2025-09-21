@@ -11,12 +11,19 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "博客"
-  pageRef = "blog"
-  weight = 20
-  pre = "pencil"
+ name = "文章"
+ pageRef = "blog"
+ pre = "blogger"
+ weight = 20
 
-#[[main]]
+[[main]]
+name = "文章分类"
+pageRef = "categories"
+pre = "list"
+weight = 20
+
+
+# [[main]]
 #  name = "Blog"
 #  pageRef = "posts"
 #  weight = 10
@@ -75,7 +82,8 @@
 #   weight = 10
 
 # [[footer]]
-#   name = "Categories"
+#   name = "文章分类"
 #   pageRef = "categories"
+#   pre = "list"
 #   weight = 20
 

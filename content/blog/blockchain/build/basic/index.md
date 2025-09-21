@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 1
+summary: 使用Go语言构建区块链系列教程第一部分，从零开始实现区块链的基本原型，包括区块结构和链式连接。
 ---
 
 ## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span> {#introduction}

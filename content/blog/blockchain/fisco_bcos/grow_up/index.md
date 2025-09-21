@@ -3,6 +3,7 @@ title: 与FISCO BCOS同成长
 date: 2021-01-01T14:52:38+00:00
 categories:
   - 区块链
+summary: 分享与FISCO BCOS开源社区共同成长的经历，记录从接触区块链技术到参与开源项目的学习历程和感悟。
 ---
 Hi，各位读者，最近过的怎么样？在今天，我们一起告别了“难忘”的2020，迎来了崭新的2021，希望大家在新的一年能实现自己的愿望。
 
@@ -10,7 +11,6 @@ Hi，各位读者，最近过的怎么样？在今天，我们一起告别了“
 
 第一次接触FISCO BCOS社区的小伙伴是2018年在HK的CityU科技展上，我还很清楚地记得这两位小伙伴是David和Henry。和两位小伙伴在参展去交流了一些社区、行业发展的情况，互换了联系方式后，我便去会议室等待他们进一步的分享，当时FISCO BCOS的版本还是1.0x。道别后，可能大家都没想到三年后的今天，我们的交流会是如此频繁且密切。
 
-<!--more-->
 
 <div class="wp-block-image">
   <figure class="aligncenter is-resized"><a href="http://roliu.work/wp-content/uploads/2021/01/image-e1609472960145.png"><img decoding="async" src="http://roliu.work/wp-content/uploads/2021/01/image-e1609472960145.png" alt="" class="wp-image-740" width="564" /></a><figcaption>微信朋友圈截图：2018年1月27日 HK CityU科技展</figcaption></figure>

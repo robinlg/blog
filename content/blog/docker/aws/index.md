@@ -3,6 +3,7 @@ title: 用AWS的Docker挑选一只小猫咪
 date: 2023-07-16T08:51:45+00:00
 categories:
   - Docker
+summary: 详细介绍如何使用AWS Elastic Beanstalk部署Docker应用，包括本地测试、云上部署、配置文件设置等完整流程。
 ---
 <blockquote class="wp-block-quote">
   <p>

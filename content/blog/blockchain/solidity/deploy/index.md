@@ -3,6 +3,7 @@ title: Difference new() with depoly() of Solidity for Smart Contract
 date: 2018-12-06T09:01:10+00:00
 categories:
   - 区块链
+summary: 探讨Solidity智能合约中new()与deploy()方法的区别，通过实际测试验证两者返回的HASH地址是否相同，解决合约部署中的常见困惑。
 ---
 今天在做基于Ethereum的古董投资Dapp（编写完成后笔者会开源）单元测试时发觉了一个问题的存在，如题。我不确定new一个合约后返回的实例（一串十六进制的HASH）是否与deploy返回的HASH一样也是一个合约地址，在社区询问后无果，就自己在[remix][1]里写了一小段代码验证我的想法。希望能帮助读者解决这方面的困惑。
 

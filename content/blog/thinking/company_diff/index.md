@@ -3,6 +3,7 @@ title: 外包？非外包？哪种类型的IT公司你更青睐
 date: 2021-12-04T11:44:02+00:00
 categories:
   - 思考
+summary: 对比分析外包公司与非外包公司在工作职责、组织架构、开发流程、工具选择等方面的差异，分享实际工作体验和面试经验。
 ---
 <blockquote class="wp-block-quote">
   <p>

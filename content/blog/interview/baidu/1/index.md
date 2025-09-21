@@ -3,6 +3,7 @@ title: 百度社招一面
 date: 2025-01-10T07:34:34+00:00
 categories:
   - 面经
+summary: 百度地图部门后端开发面试经验，包含设计题、八股文和算法题，重点分享了图片批量上传接口的设计思路和TCP分段思想的运用。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

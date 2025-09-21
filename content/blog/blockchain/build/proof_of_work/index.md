@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 2
+summary: 使用Go语言构建区块链系列教程第二部分，详细介绍工作量证明(Proof-of-Work)算法的实现原理和代码实现。
 ---
 
 ## <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span> {#introduction}

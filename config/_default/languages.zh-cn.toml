@@ -2,14 +2,14 @@
 languageCode = "zh-cn"
 languageName = "简体中文"
 #weight = 4
-#title = "Robin"
+title = "Robin"
 
 [params]
   displayName = "简体中文"
   isoCode = "zh-cn"
   rtl = false
   dateFormat = "2006-01-02"
-  logo = "img/logo.PNG"
+#   logo = "img/blowfish_logo_transparent.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"

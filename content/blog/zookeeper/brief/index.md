@@ -3,6 +3,7 @@ title: ZooKeeper简介与基本使用
 date: 2021-11-30T00:00:00+00:00
 categories:
   - Zookeeper
+summary: 详细介绍ZooKeeper分布式协调服务的基本概念、工作原理和应用场景，以及如何解决分布式系统中的信息共享问题。
 ---
 ## **1. ZooKeeper简介** {.wp-block-heading}
 

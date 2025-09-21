@@ -3,6 +3,7 @@ title: 普渡科技一面
 date: 2025-01-09T02:28:26+00:00
 categories:
   - 面经
+summary: 普渡科技云服务部门Go后端开发面试，重点考察Go语言GC机制、channel原理、HTTP协议、MySQL索引、Redis缓存等核心技术。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

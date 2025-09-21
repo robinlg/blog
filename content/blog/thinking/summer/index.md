@@ -3,6 +3,7 @@ title: 夏天
 date: 2023-06-30T04:58:08+00:00
 categories:
   - 思考
+summary: 分享关于夏天的美好回忆和人生感悟，包括高考成绩公布时的情感体验、晚霞带来的治愈力量以及对生命美好的期许。
 ---
 <blockquote class="wp-block-quote">
   <p>

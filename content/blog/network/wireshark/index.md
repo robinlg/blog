@@ -3,6 +3,7 @@ title: 使用抓包工具看网络分层
 date: 2021-05-01T03:14:07+00:00
 categories:
   - 网络
+summary: 介绍使用Wireshark抓包工具分析网络分层的实践，通过抓包分析展示TCP协议各层的工作机制和参数含义。
 ---
 在学习小册<a rel="noreferrer noopener" href="https://juejin.cn/book/6844733788681928712" target="_blank">《深入理解TCP协议：从原理到实战》</a>的时候发现一个不错的抓包工具“**wireshark**”，借此篇文章做一下简介，顺便记录学习过程。<figure class="wp-block-image is-resized">
 

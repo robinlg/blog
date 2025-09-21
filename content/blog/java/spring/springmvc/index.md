@@ -4,6 +4,7 @@ date: 2020-09-05T15:08:48+00:00
 featured_image: /wp-content/uploads/2020/09/mvc.png
 categories:
   - Java
+summary: 深入解析SpringMVC的核心处理流程，从DispatcherServlet接收到请求到返回响应的七个步骤，以及DispatcherServlet中的九大核心组件及其功能。
 ---
 <figure class="wp-block-image"><img decoding="async" src="http://roliu.work/wp-content/uploads/2020/09/SpringMVC主要流程-1-1024x446.png" alt="" class="wp-image-629" /><figcaption>SpringMVC主要流程</figcaption></figure> 
 

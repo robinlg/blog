@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 5
+summary: 详细介绍比特币高级密钥和地址技术，包括BIP0038加密私钥、P2SH多重签名地址、靓号地址生成算法和纸钱包安全存储方案。
 ---
 
 ### <span class="ez-toc-section" id="45_%E9%AB%98%E7%BA%A7%E5%AF%86%E9%92%A5%E5%92%8C%E5%9C%B0%E5%9D%80"></span>高级密钥和地址<span class="ez-toc-section-end"></span>

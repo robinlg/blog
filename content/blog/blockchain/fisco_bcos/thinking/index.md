@@ -3,7 +3,9 @@ title: The thinking of project about FISCO BCOS
 date: 2019-12-30T02:24:56+00:00
 categories:
   - 区块链
+summary: 分享FISCO BCOS项目的深度思考，探讨联盟链技术架构、应用场景、开发实践以及区块链技术在企业级应用中的价值。
 ---
+
 <div class="wp-block-image">
   <figure class="aligncenter"><img decoding="async" src="https://raw.githubusercontent.com/FISCO-BCOS/FISCO-BCOS/master/docs/images/FISCO_BCOS_Logo.svg?sanitize=true" alt="" /></figure>
 </div>

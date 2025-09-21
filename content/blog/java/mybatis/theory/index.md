@@ -3,6 +3,7 @@ title: （二）Mybatis架构原理
 date: 2020-08-15T04:50:18+00:00
 categories:
   - Java
+summary: 深入解析MyBatis三层架构设计，包括API结构、数据处理层、基础支撑层以及九大核心组件的工作原理和相互关系。
 ---
 
 ## <span class="ez-toc-section" id="%E6%9E%B6%E6%9E%84%E8%AE%BE%E8%AE%A1"></span>**架构设计**<span class="ez-toc-section-end"></span> {.wp-block-heading}

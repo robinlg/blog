@@ -3,6 +3,7 @@ title: Apache Tomcat Web Application Server
 date: 2020-11-07T07:32:01+00:00
 categories:
   - Linux
+summary: 全面解析Tomcat8.5.50的系统架构与原理，包括连接器组件Coyote、Servlet容器Catalina、类加载机制、核心配置和性能优化策略。
 ---
 此文介绍Tomcat相关原理及配置，文章并非一次将所有关于Tomcat（基于8.5.50）的知识点全罗列出来，因此文章可能会不定期更新。若有更新会及时更新以下的目录：
 

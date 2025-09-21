@@ -3,15 +3,15 @@ title: 在Docker CentOS7.x镜像中通过源码方式安装MySQL
 date: 2021-05-19T06:40:14+00:00
 categories:
   - MySQL
+summary: 详细介绍在Docker容器中通过源码编译方式安装MySQL5.7的完整过程，包括环境依赖、编译配置、用户权限设置等步骤。
 ---
+
 最近需要将三台腾讯云服务器的应用全部迁移到一个Docker CentOS7.x的镜像中。其他应用迁移都比较顺利，唯安装MySQL遇到了一些问题。因为在容器中使用`systemctl/service`命令会出现下图的错误：<figure class="wp-block-image">
 
 <img decoding="async" src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/b6a8d454f5414a4dbe2d694be2c700ed~tplv-k3u1fbpfcp-watermark.awebp" alt="image.png" /> </figure> 
 
 虽然找到一些解决方案，但是需要在宿主机上操作，于是找了容器平台运营方，很遗憾他们回答：“无法解决”。这就无法使用我一贯安装MySQL的<a rel="noreferrer noopener" href="https://link.juejin.cn?target=https%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.7%2Fen%2Flinux-installation-yum-repo.html" target="_blank">yum源方式</a>，改成使用源码安装MySQL。以下记录我通过源码方式安装MySQL的过程。  
 
-
-<!--more-->
 
 <div id="ez-toc-container" class="ez-toc-v2_0_56_1 counter-hierarchy ez-toc-counter ez-toc-grey ez-toc-container-direction">
   <div class="ez-toc-title-container">

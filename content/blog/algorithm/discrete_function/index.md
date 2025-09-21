@@ -3,6 +3,7 @@ title: 根据离散函数概率返回int值
 date: 2019-01-22T00:58:06+00:00
 categories:
   - 算法与数据结构
+summary: 通过均匀分布函数实现按特定概率生成随机数的算法，详细解释了如何将均匀分布转换为离散概率分布的方法。
 ---
 <figure class="wp-block-image"><img decoding="async" src="http://roliu.work/wp-content/uploads/2019/01/概率.png" alt="" class="wp-image-375" /><figcaption>图1.1 左侧（期望结果）；右侧（实现的算法代码）</figcaption></figure> 
 

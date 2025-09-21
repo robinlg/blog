@@ -3,6 +3,7 @@ title: JVM运行时数据区
 date: 2020-06-13T07:58:23+00:00
 categories:
   - Java
+summary: 详细介绍JVM运行时数据区的各个组成部分，包括程序计数器、虚拟机栈、本地方法栈、Java堆、方法区和直接内存。
 ---
 根据《Java虚拟机规范》的规定，Java虚拟机所管理的内存将会包括以下几个运行时数据区域，如图1所示。<figure class="wp-block-image">
 

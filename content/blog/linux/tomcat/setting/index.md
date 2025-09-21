@@ -3,6 +3,7 @@ title: Setting tomcat8 as system services on Centos7
 date: 2020-02-12T03:11:58+00:00
 categories:
   - Linux
+summary: 详细介绍如何在CentOS7上将Tomcat8配置为系统服务，包括解压安装、配置JAVA_HOME、创建systemd服务文件和启动管理。
 ---
 The following methods are effective for me. Here&#8217;s how I did it.  
 *** I&#8217;m operating in /home/robin**

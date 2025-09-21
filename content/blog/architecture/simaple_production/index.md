@@ -3,6 +3,7 @@ title: 经典且简单的企业级生产环境系统架构
 date: 2021-07-31T08:29:17+00:00
 categories:
   - 架构
+summary: 详细介绍企业级生产环境的完整部署方案，包括Nginx负载均衡、Redis哨兵模式、MySQL主从复制和静态资源同步等组件的配置。
 ---
 <blockquote class="wp-block-quote">
   <p>

@@ -3,6 +3,7 @@ title: 腾讯社招一面
 date: 2025-01-04T07:10:57+00:00
 categories:
   - 面经
+summary: 腾讯区块链产品中心Go后端开发面试，持续2.5小时深度考察，涵盖Go语言、网络协议、操作系统、数据库、Redis等全方位技术。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

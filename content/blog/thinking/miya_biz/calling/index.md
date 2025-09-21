@@ -3,6 +3,7 @@ title: 2023.5-2023.6 1V1语音一期总结
 date: 2023-06-18T08:21:02+00:00
 categories:
   - 思考
+summary: 总结1V1语音聊天项目的开发经验，重点解决推荐算法设计和避免瞬时大量查询请求的技术难点，分享了具体的实现方案和代码示例。
 ---
 
 ## <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

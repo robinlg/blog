@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 3
+summary: 全面介绍比特币核心客户端的使用方法，包括编译安装、JSON-RPC API接口、钱包管理、交易操作和区块查询等功能详解。
 ---
 
 ## <span class="ez-toc-section" id="31_%E6%AF%94%E7%89%B9%E5%B8%81%E6%A0%B8%E5%BF%83%EF%BC%9A%E5%8F%82%E8%80%83%E5%AE%9E%E7%8E%B0"></span>比特币核心：参考实现<span class="ez-toc-section-end"></span>

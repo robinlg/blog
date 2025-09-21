@@ -3,6 +3,7 @@ title: 拼多多社招一面
 date: 2025-01-11T06:41:06+00:00
 categories:
   - 面经
+summary: 拼多多云平台运维后端开发面试经验，主要考察算法题和Go并发编程，面试官偏向运维方向，对开发项目关注度不高。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

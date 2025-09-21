@@ -3,6 +3,7 @@ title: 2023.2-2023.3 新贵族体系总结
 date: 2023-04-09T12:10:11+00:00
 categories:
   - 思考
+summary: 总结新贵族体系从个人维度转为房间维度的开发经验，包括方案设计、新旧兼容、项目管理等关键问题的解决思路和最佳实践。
 ---
 
 ## <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>**背景**<span class="ez-toc-section-end"></span> {.wp-block-heading}

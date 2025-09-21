@@ -3,6 +3,7 @@ title: 使用map降低算法的时间复杂度
 date: 2022-02-19T12:17:59+00:00
 categories:
   - 算法与数据结构
+summary: 通过实际开发案例展示了如何利用map数据结构将算法时间复杂度从O(N*logM)优化到O(1)，包括群组好友查找和勋章排序两个场景。
 ---
 <blockquote class="wp-block-quote">
   <p>

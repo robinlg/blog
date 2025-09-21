@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 1
+summary: 深入解析以太坊(Ethereum)的工作原理，从基础概念到技术实现，全面介绍以太坊区块链的核心机制和运行原理。
 ---
 
 ### <span class="ez-toc-section" id="Introduction"></span>Introduction<span class="ez-toc-section-end"></span> {#0c04.graf.graf--h3.graf-after--figure}

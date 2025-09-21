@@ -3,6 +3,7 @@ title: Java并发包工具类使用范式
 date: 2021-09-19T08:48:24+00:00
 categories:
   - Java
+summary: 分享Java并发编程中的经典编程范式，包括等待-通知机制、锁的获取释放、无锁工具类、ThreadLocal内存泄漏以及两阶段终止线程模式。
 ---
 <blockquote class="wp-block-quote">
   <p>

@@ -3,6 +3,7 @@ title: 百度社招二面
 date: 2025-01-10T08:46:30+00:00
 categories:
   - 面经
+summary: 百度地图部门后端开发二面经验，重点考察HTTP协议、DNS、MySQL优化、网络安全等实际开发问题，包含算法题和项目细节讨论。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}

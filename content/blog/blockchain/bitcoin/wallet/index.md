@@ -5,6 +5,7 @@ categories:
   - 区块链
 series:
 series_order: 4
+summary: 全面介绍比特币密钥生成、椭圆曲线密码学、钱包类型、HD钱包、BIP32/BIP44标准以及助记词等核心密码学概念和技术实现。
 ---
 
 ## <span class="ez-toc-section" id="41_%E7%AE%80%E4%BB%8B"></span>简介<span class="ez-toc-section-end"></span>

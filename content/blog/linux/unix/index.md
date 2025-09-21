@@ -3,6 +3,7 @@ title: UNIX环境高级编程——UNIX标准及实现
 date: 2023-09-17T08:35:36+00:00
 categories:
   - Linux
+summary: 详细介绍UNIX标准体系，包括ISO C、IEEE POSIX、Single UNIX Specification等标准，以及各种UNIX系统实现如SVR4、BSD、Linux等。
 ---
 
 ## <span class="ez-toc-section" id="UNIX%E6%A0%87%E5%87%86"></span>UNIX标准<span class="ez-toc-section-end"></span> {.wp-block-heading}

@@ -3,6 +3,7 @@ title: 迅雷社招一面
 date: 2024-12-16T05:34:31+00:00
 categories:
   - 面经
+summary: 迅雷海外语言社交部门Go后端开发面试，重点讨论项目实现细节、网络协议、Go map并发安全等基础技术问题。
 ---
 
 ### <span class="ez-toc-section" id="%E8%83%8C%E6%99%AF"></span>背景<span class="ez-toc-section-end"></span> {.wp-block-heading}
