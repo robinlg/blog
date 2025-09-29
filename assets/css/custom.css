@@ -2,27 +2,28 @@
 .main-menu {
     padding-left: 0 !important;
     /* padding-right: 0 !important; */
+    /* 增加导航栏厚度 */
+    padding-top: 0.25rem !important;
+    padding-bottom: 0.25rem !important;
 }
 
-img.logo {
+/* img.logo {
     max-height: 6rem;
     max-width: 6rem;
-}
+} */
 
 .max-w-prose {
     margin-bottom: 0;
 }
 
 /* 导航栏字体大小调整 */
-.main-menu nav a p {
+/* .main-menu nav a p {
     font-size: 1.125rem !important;
     font-weight: 600 !important;
-}
+} */
 
-/* 专门针对logo区域的选择器 */
-.main-menu .flex.items-center a,
-.main-menu .flex.items-center span,
-.main-menu .flex.items-center div {
-    font-size: 1.25rem !important;
+/* 只针对title的选择器 */
+.main-menu a[href="/"] {
+    font-size: 1.5rem !important;
     font-weight: 700 !important;
 }
