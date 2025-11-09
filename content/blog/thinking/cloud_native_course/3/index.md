@@ -1,7 +1,10 @@
 ---
+title: 3.多维提问找方向
+summary: 从更多纬度对我提问，通过提问让我清晰知道自己想往什么方向发展，学什么
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 3
 ---
 ## 我提问
 再从更多纬度对我提问，通过提问让我清晰知道自己想往什么方向发展，学哪个课程

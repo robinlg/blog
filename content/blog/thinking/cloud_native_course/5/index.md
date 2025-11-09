@@ -1,7 +1,10 @@
 ---
+title: 5.长期职业画像追问
+summary: 追问AI的回答(长期职业画像-你更希望自己未来成为什么样的技术专家？)
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 5
 ---
 ## 我提问
 对于你上个回答提到的：长期职业画像-你更希望自己未来成为什么样的技术专家？

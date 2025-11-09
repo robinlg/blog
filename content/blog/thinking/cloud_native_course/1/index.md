@@ -1,7 +1,10 @@
 ---
+title: 1.课程大纲如何选择
+summary: 对比截图中的两个课程大纲，如何做选择
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 1
 ---
 ## 我提问
 对比我给的两个课程大纲（第一张是极客时间的课程A，后面两张是孔老师的课程B），如何做选择？

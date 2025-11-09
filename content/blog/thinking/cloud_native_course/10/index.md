@@ -1,7 +1,10 @@
 ---
+title: 10.Infra路径与管理机会
+summary: 但我经常听别人说35后一般都要转去做管理，如果学习课程2，成为这种技术专家会有成为管理的机会吗？
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 10
 ---
 ## 我提问
 但我经常听别人说35后一般都要转去做管理，如果学习课程2，成为这种技术专家会有成为管理的机会吗？

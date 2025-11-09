@@ -1,7 +1,10 @@
 ---
+title: 2.课程链接详解
+summary: 给出课程介绍的网站链接，帮我更具体分析应该学哪个
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 2
 ---
 ## 我提问
 有更具体的大纲网站链接

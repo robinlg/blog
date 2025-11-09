@@ -1,7 +1,10 @@
 ---
+title: 4.课程优劣多维解析
+summary: 从更多纬度分析比较这两个课程的优缺点
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 4
 ---
 ## 我提问
 从更多纬度分析比较这两个课程的优缺点

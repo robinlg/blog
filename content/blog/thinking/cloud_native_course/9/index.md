@@ -1,7 +1,10 @@
 ---
+title: 9.商业敏感度与选择
+summary: 我个人感觉我对商业业务不怎么敏感，是不是对于个人发展来说，课程2更适合？
 showPagination: false
 showBreadcrumbs: false
 showDate: false
+weight: 9
 ---
 ## 我提问
 我个人感觉我对商业业务不怎么敏感，是不是对于个人发展来说，课程2更适合？
