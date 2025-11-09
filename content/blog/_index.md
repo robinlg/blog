@@ -6,6 +6,8 @@ orderByWeight: false
 cardView: false
 showTableOfContents: false
 showBreadcrumbs: true
+showHero: true
+heroStyle: "background"
 ---
 
 {{< lead >}}
